@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aleksandr</h1>
+<h1 align="center">Hi friend 👋, I'm Aleksandr</h1>
 
 <h3 align="center">Frontend developer from Belarus</h3>
 
 <div align="center">
-   <h3 align="center">Contacts</h3>
+   <h3 align="center">📝 Contacts</h3>
    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%B7%D0%B0%D0%B9%D1%86%D0%B5%D0%B2-961481277/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
-<h3 align="center">My stack</h3>
+<h3 align="center">🧱 My stack</h3>
 <div align="center">
    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react"/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> 
@@ -47,20 +47,21 @@
   
 </div>
 
-<h3 align="center">Stats</h3>
+<h3 align="center">📈 Stats</h3>
 
 <div align="center"> 
    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zaitsev-AV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaitsev-AV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+<h3 align="center">✍️ Random Dev Quote</h3>
 
-✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+</div>
 
 </div>
 
-<h3 align="center">Codewars</h3>  
+<h3 align="center">💻 Codewars</h3>  
 
 <div align="center">
   
