@@ -15,8 +15,7 @@
   </a>
   <a>
   <a href="https://instagram.com/zaitsev_av" target="blank">
-    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=Instagram&logoColor=Orange" alt="Instagram">
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
 <h3 align="center">My stack</h3>
