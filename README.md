@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ilya</h1>
+<h1 align="center">Hi 👋, I'm Aleksandr</h1>
 
 <h3 align="center">Frontend developer from Belarus</h3>
 
@@ -15,7 +15,8 @@
   </a>
   <a>
   <a href="https://instagram.com/zaitsev_av" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaitsev_av" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=Instagram&logoColor=Orange" alt="Instagram">
+
   </a>
 </div>
 <h3 align="center">My stack</h3>
