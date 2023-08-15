@@ -29,7 +29,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass"/>
    <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios"/>
-   <img src="https://img.shields.io/badge/Formik?style=for-the-badge&logo=Formik&logoColor=blue" alt="Formik">
+   <img src="https://img.shields.io/npm/v/formik.svg" alt="Formik">
    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React-Hook-Form"/>
      
    <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook"/>
