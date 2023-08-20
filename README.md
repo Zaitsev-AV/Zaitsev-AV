@@ -1,9 +1,10 @@
 <h1 align="center">Hi friend 👋, I'm Aleksandr</h1>
-<div style="display:flex; justify-content: space-around ">
 <div>
-<h3 align="left">Frontend developer from Belarus.
-<p style="padding:5px"> Welcome to my GitHub account! Here you'll find my various projects I'm working on or have worked on in the past.</p>
-</h3>
+<img  src="https://miro.medium.com/v2/resize:fit:3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="300" alt="Coding" align='right'/>
+<h3 align="left">Frontend developer from Belarus.</h3>
+
+<p> Welcome to my GitHub account! Here you'll find my various projects I'm working on or have worked on in the past.</p>
+
 <h2>☝️ A few facts about me:</h2>
   <ul>
 <!--     <li>Solving rubik's cube 4x4.</li> -->
@@ -14,8 +15,7 @@
     <li>💬 Write me if you need a qualified <strong>Frontend developer</strong>.</li>
     <li>📙 Check out my <a href="/">CV</a>.</li>
   </ul>
-</div>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh4ZjBnZnEyMzRoaXpydmZwNDZkd2F3d3c2aHc1MnZrYzFoN3d2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elrFAUtV7ZOH7TSPhF/giphy.gif" width="300" alt="Coding"/>
+
 
 </div>
 
