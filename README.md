@@ -25,9 +25,8 @@
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux"/>
    <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React-Router"/>
-   <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass"/>
+   <img src="https://camo.githubusercontent.com/0b800ba66510eced290bf339ed8defc50ac8552b777a3559cdc286a804d37eca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d637373335f2f5f736373735f2f5f736173735f2f5f42454d2d3238326133363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d333239364430" alt="Sass, CSS"/>
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
-   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3"/>
    <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios"/>
    <img src="https://camo.githubusercontent.com/d2737af1a4caf34d83fc933874a0c907b6419848a41f8e3e914a7c35356ca3cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f73746d616e26636f6c6f723d464636433337266c6f676f3d506f73746d616e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Postman"/>
    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React-Hook-Form"/>
