@@ -9,7 +9,7 @@
   <ul>
 <!--     <li>Solving rubik's cube 4x4.</li> -->
     <li>👨🏼‍🔧 I worked at the plant for six years, worked my way up from laborer to engineer.</li>
-    <li>🏃🏼‍♂️ He was a former professional track and field athlete.</li>
+    <li>🏃🏼‍♂️ I was a professional track and field athlete in the past.</li>
     <li>❤️ I have a little daughter. I love her very much.</li>
 <!--     <li>Solving rubik's cube 5x5!</a>.</li> -->
     <li>💬 Write me if you need a qualified <strong>Frontend developer</strong>.</li>
