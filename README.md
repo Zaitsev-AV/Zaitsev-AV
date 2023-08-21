@@ -62,7 +62,8 @@
 </div>
 
 <div align="center"> 
-
+<br/>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaitsev-AV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 <h3 align="center">✍️ Random Dev Quote</h3>
