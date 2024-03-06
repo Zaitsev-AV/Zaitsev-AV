@@ -40,25 +40,32 @@
 <summary align="left"><b > 🧱 My skills and stats: </b> <img align="right" src="https://www.codewars.com/users/zaitsev_av/badges/small" alt="coders"></summary>
 <br/>
 <div align="center">
-   <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="react"/>
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux"/>
    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/> 
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)" alt="Nest.js"/> 
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
    <img src="https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/>
    <img src="https://img.shields.io/badge/-css3_/_scss_/_sass_/_BEM-282a36?style=for-the-badge&amp;logo=css3&amp;logoColor=f7d794&color=596275" alt="CSS"/>
    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5"/>
    <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990.svg?style=for-the-badge&logo=React-Hook-Form&logoColor=white" alt="React-Hook-Form"/>
    <img src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white" alt="React-Router"/>
-<img src="https://img.shields.io/badge/-rest_api-282a36?style=for-the-badge&amp;logo=fastapi&amp;logoColor=#009688&color=#006266&" alt="API"/>
+   <img src="https://img.shields.io/badge/-rest_api-282a36?style=for-the-badge&amp;logo=fastapi&amp;logoColor=#009688&color=#006266&" alt="API"/>
+   <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query"/>
    <img src="https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=Axios&logoColor=white" alt="Axios"/>
-   <img src="https://camo.githubusercontent.com/d2737af1a4caf34d83fc933874a0c907b6419848a41f8e3e914a7c35356ca3cf/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f73746d616e26636f6c6f723d464636433337266c6f676f3d506f73746d616e266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Postman"/>
    <img src="https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=Storybook&logoColor=white" alt="Storybook"/>
-<img alt="Vercel" src="https://img.shields.io/badge/vercel-282a36?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF&color=f5cd79"/>
-   <img src="https://camo.githubusercontent.com/d96a01edb67770ddc4a8794895b4e2c1fab10e9fab40060b287bcb3448915a01/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5669746526636f6c6f723d363436434646266c6f676f3d56697465266c6f676f436f6c6f723d464646464646266c6162656c3d" alt="Vite"/>
+   <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="RadixUI"/>
+   <img alt="Vercel" src="https://img.shields.io/badge/vercel-282a36?style=for-the-badge&logo=vercel&logoColor=white"/>
+   <img alt="Figma" src="https://img.shields.io/badge/-figma-282a36?style=for-the-badge&amp;logo=figma&amp;logoColor=31A8FF&color=f5cd79"/>
+   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
+   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
+   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Component"/>
    <img src="https://img.shields.io/badge/MUI-007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white" alt="MUI"/>
-<img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-282a36?style=for-the-badge&amp;logo=github"/>
-<img alt="WebStorm" src="https://img.shields.io/badge/webstorm-282a36?style=for-the-badge&logo=webstorm&logoColor=63cdda&color=786fa6"/>
+   <img alt="GitHub" src="https://img.shields.io/badge/-git&nbsp;/&nbsp;github-282a36?style=for-the-badge&amp;logo=github"/>
+   <img alt="WebStorm" src="https://img.shields.io/badge/webstorm-282a36?style=for-the-badge&logo=webstorm&logoColor=63cdda&color=786fa6"/>
+   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+   <img alt="PNPM" src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220"/>
 </div>
 
 <div align="center"> 
